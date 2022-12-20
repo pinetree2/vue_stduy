@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+# 해송의 Vue 프로젝트 공부
+
