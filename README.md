@@ -1,4 +1,7 @@
 # 해송의 Vue 프로젝트 공부
+### notion 링크 첨부
+[notion 링크](https://song-01.notion.site/Vue-js-9f31ef380ba34cd4b61664e42b657792)
+
 
 
 # songtestvue
